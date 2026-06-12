@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | CSE Student | AI Enthusiast</h3>
 
 <div align="center">
-
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Freelance+Web+Developer;Building+AI+Powered+Applications;Full+Stack+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
