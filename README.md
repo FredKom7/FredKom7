@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Freddy Kom</h1>
-<h3 align="center">Full Stack Developer | CSE Student | AI Enthusiast</h3>
+<h3 align="center">Full Stack Developer | CSE - Data Science Student | AI Enthusiast</h3>
 
 <div align="center">
  
