@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Student
+🎓 Computer Science Engineering - Data Science Student
 
 💼 Freelance Full Stack Developer
 
